@@ -4,4 +4,4 @@ new creation
 
 coding
 ai
-cloud computing
+machine language
